@@ -6,8 +6,27 @@ Most of the commits in this repository correspond to videos in the program.
 
 ## Project Setup
 
-* clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
-* install the dependencies - `npm install`
+- clone the Project - `git@github.com:mohamedashrafkamal/Udacity-Front-End-Web-Development-Advanced-React-redux-project.git`
+- install the dependencies - `npm install` or `yarn`
+
+## Features
+
+- React
+- Redux
+- React redux
+- React router
+
+## Detailes
+
+- Project name (Tweet app)
+
+- Main functions:
+1. Display all the Tweets in the system.
+2. Add new Tweet.
+3. Like Tweets.
+4. Reply to Tweets.
+5. Navigate to Tweets and display its replies.
+6. Navigate to Tweets' parent and display its replies.
 
 ## Contributing
 
